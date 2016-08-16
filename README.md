@@ -1,4 +1,5 @@
 ####安装依赖项
+
 1.  npm init, 自动生成package.json文件.
   
         npm init  
@@ -22,5 +23,12 @@
 6.  安装jQuery.
         
         npm install jQuery --save
+
+####启动
+
+1.  npm run dev
+
+2.  打开localhost:8080
+
 
 
