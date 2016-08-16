@@ -19,4 +19,8 @@
 
         npm install less --save-dev
 
+6.  安装jQuery.
+        
+        npm install jQuery --save
+
 
